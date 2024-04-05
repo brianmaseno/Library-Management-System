@@ -2,13 +2,7 @@
 
 $(document).ready(function(){    
     var firebaseConfig = {
-        apiKey: "AIzaSyBin1evT-H6jfR49WIhtVPsGMLzbEklIQY",
-        authDomain: "library-management-syste-f2a85.firebaseapp.com",
-        databaseURL: "https://library-management-syste-f2a85.firebaseio.com",
-        projectId: "library-management-syste-f2a85",
-        storageBucket: "library-management-syste-f2a85.appspot.com",
-        messagingSenderId: "914416876417",
-        appId: "1:914416876417:web:bf9e7762c1c283ba"
+       
       };
       // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
