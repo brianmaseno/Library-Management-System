@@ -1,12 +1,20 @@
 $(document).ready(function() {
     var firebaseConfig = {
-    apiKey: "AIzaSyBin1evT-H6jfR49WIhtVPsGMLzbEklIQY",
-    authDomain: "library-management-syste-f2a85.firebaseapp.com",
-    databaseURL: "https://library-management-syste-f2a85.firebaseio.com",
-    projectId: "library-management-syste-f2a85",
-    storageBucket: "library-management-syste-f2a85.appspot.com",
-    messagingSenderId: "914416876417",
-    appId: "1:914416876417:web:bf9e7762c1c283ba"
+        apiKey: "AIzaSyBKgjXJzc_90E0LR7DO_pVpOpKkJyds8xk",
+        authDomain: "library-dcf25.firebaseapp.com",
+        databaseURL: "https://console.firebase.google.com/u/0/project/library-dcf25/database/library-dcf25-default-rtdb/data/~2F",
+       
+        projectId: "library-dcf25",
+        storageBucket: "library-dcf25.appspot.com",
+        messagingSenderId: "832069169242",
+        appId: "1:832069169242:web:82668049500b7e35d46863"
+    // apiKey: "AIzaSyBin1evT-H6jfR49WIhtVPsGMLzbEklIQY",
+    // authDomain: "library-management-syste-f2a85.firebaseapp.com",
+    // databaseURL: "https://library-management-syste-f2a85.firebaseio.com",
+    // projectId: "library-management-syste-f2a85",
+    // storageBucket: "library-management-syste-f2a85.appspot.com",
+    // messagingSenderId: "914416876417",
+    // appId: "1:914416876417:web:bf9e7762c1c283ba"
     };
     // Initialize Firebase
     firebase.initializeApp(firebaseConfig);
